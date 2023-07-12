@@ -12,7 +12,7 @@ export default function M2cteam() {
           <button className='w-[150px] h-[35px] bg-[orange] hover:bg-white text-white hover:text-[orange] rounded-lg'>HIRE ME</button>
         </div>
         <div>
-          <Image src="/robot.jpg" alt='pic' width={400} height={400} />
+          <Image className='rounded-[100%]' src="/images/avatar2.png" alt='pic' width={400} height={400} />
         </div>
       </div>
     </Wrapper>
